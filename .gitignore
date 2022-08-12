@@ -1,0 +1,41 @@
+
+
+
+
+
+
+
+
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# TypeScript v1 declaration files
+typings/
+
+# Optional npm cache directory
+.npm
+
+
+# dotenv environment variables file
+.env
+.env.test
+
+
+
+
+
+
+
+
+
+
+# My local environment
+
+bin/
+dist/
+out/
+src/Anaplan/antlrclasses/
+.antlr/
+# We still want .generateAnaplanData since although generated, we want to track changes
